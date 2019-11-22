@@ -13,7 +13,7 @@ After conducting a series of analysis, such as descriptive analysis, and techniq
 ###### Discussion
 One of the major limitations of this conducted poll is that the number of participants. And it can be further elaborated under the below-mentioned sections. 
 - 52 responses – Received only 52 responses for the poll.
-Both the target audience and the sample size is very limited compared with the population, it is difficult to analyze and infer the results.
+Since both the target audience and the sample size is very limited compared with the population, it is difficult to analyze and infer the results.
 - Gmail account users – Since we have created a Google form, form access is limited to Gmail users.
 Even though it is decided to conduct an online survey, it could be implemented using web application such as [LimeSurvey](https://sparkwinn5.limequery.com/)/[SurveyMonkey](https://www.surveymonkey.com/) instead of Google form where it will remove the barrier of limiting only to Gmail users. 
 - IT employees – The poll has shared among only the IT sector employees (nearly 10 companies)
