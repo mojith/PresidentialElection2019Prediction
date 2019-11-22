@@ -1,4 +1,4 @@
-# PresidentialElection2019Prediction
+# Presidential Election 2019 Prediction
 Presidential election 2019 prediction as a part of Statistical Inferences
 
 ###### Research Question
